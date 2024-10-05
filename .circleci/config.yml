@@ -7,4 +7,4 @@ workflows:
       - cypress/run:
           start-command: 'npm install'
           cypress-command: 'npm run test'
-    
+        
